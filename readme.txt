@@ -8,4 +8,10 @@ pip install streamlit
 streamlit run app.py
 
 
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
 
